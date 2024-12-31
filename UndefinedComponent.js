@@ -1,0 +1,1 @@
+This error occurs when you try to use a component that hasn't been imported or is not properly defined within its scope.  It's often coupled with the error "Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined". This usually means React can't find the component you're trying to render.
